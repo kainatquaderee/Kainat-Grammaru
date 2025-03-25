@@ -13,3 +13,9 @@ Next, in Chrome, navigate to `chrome://extensions/`, then drag and drop the `Kai
 # Usage:
 Run the Python script "server.py" first, or use `run.sh`. 
 Then, use the extension.
+
+
+#cheet sheet:
+
+use `` to give instructions.
+like `make it more friendly` 
