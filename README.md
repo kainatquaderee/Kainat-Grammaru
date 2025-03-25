@@ -1,17 +1,15 @@
 # Kainat-Grammaru
-AI will fix your grammer using opensource hugging chat. chrome extension
+AI will fix your grammar using open-source Hugging Chat. Chrome extension
 
-#Prerequisites.
-a account in [huggingface.co/chat](https://huggingface.co/chat/)
+# Prerequisites
+A account on [huggingface.co/chat](https://huggingface.co/chat/) is required.
 
-# installation
-`git clone https://github.com/kainatquaderee/Kainat-Grammaru`
-and then you can ether run install.sh from the cloned dir or run
-`pip install -r ./requirement.txt`
+# Installation
+Clone the repository using `git clone https://github.com/kainatquaderee/Kainat-Grammaru`. 
+Then, you can either run `install.sh` from the cloned directory or run `pip install -r./requirements.txt`.
 
-then in chrome go to `chrome://extensions/`
-then drag and drop the `Kainat-grammeru.crx`file in the tab and this will install the extension.
+Next, in Chrome, navigate to `chrome://extensions/`, then drag and drop the `Kainat-Grammaru.crx` file into the tab to install the extension.
 
-#usage:
-run the python "server.py" first  or use run.sh
-then use the extension
+# Usage:
+Run the Python script "server.py" first, or use `run.sh`. 
+Then, use the extension.
