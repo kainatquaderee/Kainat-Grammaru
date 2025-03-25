@@ -1,0 +1,4 @@
+flask
+streamlit
+hugchat
+dotenv
