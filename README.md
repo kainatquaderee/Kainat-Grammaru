@@ -9,6 +9,7 @@ Clone the repository using `git clone https://github.com/kainatquaderee/Kainat-G
 Then, you can either run `install.sh` from the cloned directory or run `pip install -r./requirements.txt`.
 
 Next, in Chrome, navigate to `chrome://extensions/`, then drag and drop the `Kainat-Grammaru.crx` file into the tab to install the extension.
+
 Next, open the .env file with any text editor and put your email and password on EMAIL and PASS feld.(huggingdface email and password)
 # Usage:
 Run the Python script "server.py" first, or use `run.sh`. 
