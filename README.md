@@ -10,7 +10,7 @@ Then, you can either run `install.sh` from the cloned directory or run `pip inst
 
 Next, in Chrome, navigate to `chrome://extensions/`, then drag and drop the `Kainat-Grammaru.crx` file into the tab to install the extension.
 
-Next, open the.env file with any text editor and put your email and password in the EMAIL and PASS fields (Hugging Face email and password).
+Next, open the .env file with any text editor and put your email and password in the EMAIL and PASS fields (Hugging Face email and password).
 
 # Usage:
 Run the Python script "server.py" first, or use `run.sh`. 
