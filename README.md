@@ -20,4 +20,4 @@ Then, use the extension.
 #cheet sheet:
 
 use `` to give instructions.
-like `make it more friendly` 
+like /`/make it more friendly/`/ 
